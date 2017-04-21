@@ -1,0 +1,16 @@
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\flitecart.dll.config
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\flitecart.dll
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\flitecart.pdb
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\EntityFramework.dll
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\EntityFramework.SqlServer.dll
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\nunit.framework.dll
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\WebDriver.dll
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\WebDriver.Support.dll
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\EntityFramework.xml
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\EntityFramework.SqlServer.xml
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\nunit.framework.xml
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\WebDriver.xml
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\bin\Debug\WebDriver.Support.xml
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\obj\Debug\flitecart.csprojResolveAssemblyReference.cache
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\obj\Debug\flitecart.dll
+E:\!Web_Selenium\Flitecart\Selenium_litecart\flitecart\flitecart\obj\Debug\flitecart.pdb
